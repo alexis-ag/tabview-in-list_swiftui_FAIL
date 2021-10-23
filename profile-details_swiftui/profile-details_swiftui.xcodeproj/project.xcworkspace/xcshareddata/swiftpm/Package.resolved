@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PagerTabStripView",
+        "repositoryURL": "https://github.com/xmartlabs/PagerTabStripView",
+        "state": {
+          "branch": null,
+          "revision": "582aa625a2e824930a6806d60ed6e9f999ee318c",
+          "version": "3.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
